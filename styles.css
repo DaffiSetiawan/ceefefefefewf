@@ -1,0 +1,38 @@
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  width: 10%;
+  margin: 0 auto;
+}
+
+.top-container {
+  background-color: #B8FFF9;
+}
+
+.middle-container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-damai{
+  position: absolute;
+}
+
+.bottom-peace {
+  position: absolute;
+}
